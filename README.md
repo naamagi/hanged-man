@@ -1,3 +1,3 @@
 #Hanged man game
 
-Word guessing game, in the JS console log
+Word guessing game, in the JS console log.
