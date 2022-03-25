@@ -1,7 +1,19 @@
-#Hanged man game
+# Hanged man game
 
-Word guessing game, in the JS console log.
+**Version 1.0.0**
 
-##Subheader
+Words guessing game, in the JS console log.
 
-You have 10 turns to guess the word.
+## Instructions
+
+You have 10 turns to guess the word or one letter in the word.
+
+---
+
+## Contributors
+- Naama G.
+---
+## License & copyright
+
+&copy; Naama G.
+
